@@ -1,5 +1,5 @@
 # research
 研究用のリポジトリ
 
-###CodeforcesのAPIまとめ
+### CodeforcesのAPIまとめ
 https://codeforces.com/apiHelp/methods#problemset.problems
